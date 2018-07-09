@@ -1,0 +1,6 @@
+F:\练习2-文章管理\CodematicDemo\Model\bin\Debug\Maticsoft.Model.dll
+F:\练习2-文章管理\CodematicDemo\Model\bin\Debug\Maticsoft.Model.pdb
+F:\练习2-文章管理\CodematicDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\练习2-文章管理\CodematicDemo\Model\obj\Debug\Maticsoft.Model.dll
+F:\练习2-文章管理\CodematicDemo\Model\obj\Debug\Maticsoft.Model.pdb
+F:\练习2-文章管理\CodematicDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache

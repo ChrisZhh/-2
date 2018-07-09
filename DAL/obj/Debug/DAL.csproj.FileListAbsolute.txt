@@ -1,0 +1,14 @@
+F:\练习2-文章管理\CodematicDemo\DAL\bin\Debug\Maticsoft.DAL.dll
+F:\练习2-文章管理\CodematicDemo\DAL\bin\Debug\Maticsoft.DAL.pdb
+F:\练习2-文章管理\CodematicDemo\DAL\bin\Debug\Maticsoft.Common.dll
+F:\练习2-文章管理\CodematicDemo\DAL\bin\Debug\Maticsoft.DBUtility.dll
+F:\练习2-文章管理\CodematicDemo\DAL\bin\Debug\Maticsoft.Model.dll
+F:\练习2-文章管理\CodematicDemo\DAL\bin\Debug\MySql.Data.dll
+F:\练习2-文章管理\CodematicDemo\DAL\bin\Debug\System.Data.SQLite.dll
+F:\练习2-文章管理\CodematicDemo\DAL\bin\Debug\Maticsoft.DBUtility.pdb
+F:\练习2-文章管理\CodematicDemo\DAL\bin\Debug\Maticsoft.Model.pdb
+F:\练习2-文章管理\CodematicDemo\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\练习2-文章管理\CodematicDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\练习2-文章管理\CodematicDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\练习2-文章管理\CodematicDemo\DAL\obj\Debug\Maticsoft.DAL.dll
+F:\练习2-文章管理\CodematicDemo\DAL\obj\Debug\Maticsoft.DAL.pdb

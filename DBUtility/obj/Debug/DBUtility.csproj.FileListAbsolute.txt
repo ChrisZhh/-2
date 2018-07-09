@@ -1,0 +1,9 @@
+F:\练习2-文章管理\CodematicDemo\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+F:\练习2-文章管理\CodematicDemo\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+F:\练习2-文章管理\CodematicDemo\DBUtility\bin\Debug\MySql.Data.dll
+F:\练习2-文章管理\CodematicDemo\DBUtility\bin\Debug\System.Data.SQLite.DLL
+F:\练习2-文章管理\CodematicDemo\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+F:\练习2-文章管理\CodematicDemo\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+F:\练习2-文章管理\CodematicDemo\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+F:\练习2-文章管理\CodematicDemo\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb
+F:\练习2-文章管理\CodematicDemo\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
